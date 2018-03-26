@@ -1,0 +1,7 @@
+O programa trabalha com 3 parametros pela linha de comando, sendo eles:
+
+O primeiro o número a ser convertido.
+O segundo a base atual deste numero.
+O terceiro a base para qual será convertido.
+
+O programa converte o número para a base 10 e depois transforma para a base desejada e apresenta para o usuário.
